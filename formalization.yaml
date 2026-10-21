@@ -29,7 +29,7 @@
     {
       "title": "Joint thermodynamic compatibility of two autocatalytic cores is ∃ℝ-complete",
       "type": "original-proof",
-      "relationship": "formalizes",
+      "relationship": "other",
       "location": "paper/paper.pdf",
       "note": "Theorem 1.1 and Section 8; CLAIM_MAP.md records the correspondence between the selected classifications and manuscript refinements."
     },
