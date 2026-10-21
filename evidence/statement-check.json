@@ -1,0 +1,30 @@
+{
+  "formal_classification_complete": true,
+  "independent_statement_elaboration": "PASS",
+  "statement": {
+    "path": "Challenge.lean",
+    "sha256": "30d4800db5d94528705c80eb18e40f4f29791912bd19526b6ba3e5bee49a42a0",
+    "physical_lines": 700,
+    "bytes": 25867
+  },
+  "selected_theorems": [
+    "JointThermoComplexity.Complexity.ChemicalCompleteness.boxed_complete",
+    "JointThermoComplexity.Complexity.ChemicalCompleteness.unboxed_complete"
+  ],
+  "project_specific_Challenge_imports": false,
+  "permitted_statement_hole_warnings": 34,
+  "source_closure_modules": 1195,
+  "all_candidate_Lean_sources": 1197,
+  "source_bytes_preserved": true,
+  "receipt_sha256": "add6f03005bb8ae44eda30a95b4bca45ade0d2bf73aa8bb8e7438c8cb93a6cba",
+  "log_sha256": "8ae4910f1a92709731ba9302d038d51b3b0f665368bb815ee4613e4208d896f9",
+  "all_owned_cleanup_verified": true,
+  "storage_partial_coverage": true,
+  "storage_permission_or_io_observations": 12,
+  "source_only_caps_scan_replayed_Lean": false,
+  "Comparator": "not run",
+  "configured_kernels": "not run",
+  "target_candidate_verified": false,
+  "submission_ready": false,
+  "external_actions": "none"
+}

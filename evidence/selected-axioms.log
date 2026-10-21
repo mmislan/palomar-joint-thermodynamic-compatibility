@@ -1,0 +1,6 @@
+'JointThermoComplexity.Complexity.ChemicalCompleteness.boxed_complete' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'JointThermoComplexity.Complexity.ChemicalCompleteness.unboxed_complete' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

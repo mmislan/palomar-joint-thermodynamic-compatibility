@@ -1,0 +1,16 @@
+name: Full Palomar mechanical preflight
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    uses: PalomarRegistry/PalomarSubmission/.github/workflows/submission.yml@7a08c1da8e0558d330b9b3c244896c175d373303
+    with:
+      repository: ${{ github.repository }}
+      commit: ${{ github.sha }}
+      pipeline_commit: 7a08c1da8e0558d330b9b3c244896c175d373303
+      request_id: thermodyn001
+      mode: full
+      execution_profile: palomar-standard-v1
+      options: '{"comparator_config_path":"comparator.json","authorization_relationship":"I am a responsible author or maintainer"}'

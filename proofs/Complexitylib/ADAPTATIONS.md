@@ -1,0 +1,5 @@
+# Complexitylib attribution and adaptations
+
+These modules derive from [Samuel Schlesinger's Complexitylib](https://github.com/SamuelSchlesinger/complexitylib/tree/43d4bb1a30bd93846eab5480bec8a37113586109), commit `43d4bb1a30bd93846eab5480bec8a37113586109`, under Apache-2.0. The unmodified license, upstream provenance note and original Git-blob manifest are retained beside this file. The provenance note records the upstream Lean 4.30.0 environment; the submitted development uses the root Lean 4.35.0-rc2 pin and root Lake manifest.
+
+The locally adopted dependency closure uses the `proofs.Complexitylib` module prefix. The migration adds module headers, public imports and an exposed public section for the Lean module system. Existing local 4.35 adaptations preceded this candidate. The candidate preserves the accepted migrated source bytes and upstream copyright notices. The source manifest records the actual submitted files; the upstream manifest records original Git objects, rather than claiming byte identity after migration. Source-specific complexity constructions outside this directory build on this Turing-machine and polynomial-time framework.

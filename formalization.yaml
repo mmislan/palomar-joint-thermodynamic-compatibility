@@ -1,0 +1,126 @@
+{
+  "version": "v0.4",
+  "project": {
+    "name": "Joint thermodynamic compatibility of two autocatalytic cores is ∃ℝ-complete",
+    "description": "The boxed and unboxed promise problems for common-state thermodynamic compatibility of exactly two supplied valid signed potential autocatalytic cores are existential-real complete under actual polynomial-time binary Turing many-one reductions. Factors are fixed positive input rationals at most two. The boxed problem has internal intervals [1/4,1/2], external catalyst intervals [1/2,1] and maximum side molecularity six; the unboxed problem has maximum side molecularity eight. Both source verdicts map to valid PAC annotations. The development proves the source-hardness bridge, exact literal-network serialization, Turing running-time bounds and total-feasibility membership using circuits for binary exponents.",
+    "authors": [
+      "Michael Mislan"
+    ],
+    "responsible_maintainers": [
+      "Michael Mislan"
+    ],
+    "license": "Apache-2.0",
+    "author_identifiers": {
+      "Michael Mislan": {
+        "orcid": "0009-0004-2835-5564"
+      }
+    }
+  },
+  "repository": {
+    "role": "substantive-development"
+  },
+  "classification": {
+    "arxiv": [
+      "cs.CC",
+      "q-bio.MN"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Joint thermodynamic compatibility of two autocatalytic cores is ∃ℝ-complete",
+      "type": "original-proof",
+      "relationship": "formalizes",
+      "location": "paper/paper.pdf",
+      "note": "Theorem 1.1 and Section 8; CLAIM_MAP.md records the correspondence between the selected classifications and manuscript refinements."
+    },
+    {
+      "title": "Beyond the Existential Theory of the Reals",
+      "authors": [
+        "Marcus Schaefer",
+        "Daniel Štefankovič"
+      ],
+      "id": "https://arxiv.org/abs/2210.00571v6",
+      "type": "article",
+      "relationship": "background",
+      "location": "Propositions 2.6 and 2.12",
+      "author_endorsement": "not-contacted",
+      "note": "Source for the separate conventional strict-positivity proof. The selected formal classification proves the required source-hardness reduction directly from the explicitly encoded existential-real language."
+    },
+    {
+      "title": "Thermodynamic consistency of autocatalytic cycles",
+      "authors": [
+        "Thomas Kosc",
+        "Denis Kuperberg",
+        "Étienne Rajon",
+        "Sylvain Charlat"
+      ],
+      "id": "https://doi.org/10.1073/pnas.2421274122",
+      "type": "article",
+      "relationship": "adapts",
+      "author_endorsement": "not-contacted",
+      "note": "Literal reaction-current and signed potentially autocatalytic-core model; exact correspondence is described in the manuscript."
+    }
+  ],
+  "related_formalizations": [
+    {
+      "id": "https://github.com/SamuelSchlesinger/complexitylib/tree/43d4bb1a30bd93846eab5480bec8a37113586109",
+      "relationship": "builds-on",
+      "note": "Attributed Apache-2.0 Turing-machine and polynomial-time dependency closure; retained provenance, original notices and module-system adaptations are documented in proofs/Complexitylib."
+    }
+  ],
+  "automation": {
+    "methods": [
+      {
+        "method": "agent",
+        "framework": "Codex",
+        "tool_setup": "AI-assisted formalization extension, source review, pinned toolchain migration and manuscript preparation. Strict incremental native compilation and selected axiom readback reuse authenticated unchanged proof artifacts."
+      }
+    ],
+    "notes": "The human selected the full complexity classification and approved repository author and original-material license metadata. Review status below describes agent review, rather than independent human peer review."
+  },
+  "status": {
+    "scope": "Full boxed and unboxed two-supplied-PAC promise classifications. Conventional ancillary results remain identified in CLAIM_MAP.md.",
+    "sorry_count": 0,
+    "sorry_in_definitions": 0,
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "main_results": [
+      {
+        "declaration": "JointThermoComplexity.Complexity.ChemicalCompleteness.boxed_complete",
+        "file": "proofs/JointThermoComplexity/Complexity/ChemicalCompleteness.lean",
+        "sorry_count": 0,
+        "axioms": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "comparator_config": "comparator.json",
+        "literature_dependencies": []
+      },
+      {
+        "declaration": "JointThermoComplexity.Complexity.ChemicalCompleteness.unboxed_complete",
+        "file": "proofs/JointThermoComplexity/Complexity/ChemicalCompleteness.lean",
+        "sorry_count": 0,
+        "axioms": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "comparator_config": "comparator.json",
+        "literature_dependencies": []
+      }
+    ]
+  },
+  "fidelity": {
+    "divergences": "The selected statements formalize promise-problem completeness, not recognition of arbitrary PAC annotations. Exactly two supplied cores and all advertised factor, box and molecularity restrictions are in the formal domain. The executable ordered-list representation retains zero and repeated terms. Conventional merged-channel, food, fixed-k and witness-precision refinements are not additional selected formal targets."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "notes": "Agent review covered the theorem contract, chemical definitions and manuscript correspondence. Saved local compilation and axiom evidence is described in EVIDENCE.md; full cloud verification is recorded separately in GitHub Actions."
+  },
+  "alignment": "See CLAIM_MAP.md and manuscript Section 8.",
+  "acknowledgements": "Samuel Schlesinger and Complexitylib contributors; the Lean and Mathlib communities; and the literature credited in the included manuscript."
+}

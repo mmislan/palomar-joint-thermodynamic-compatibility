@@ -1,0 +1,250 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abrahamsen et~al.(2022)Abrahamsen, Adamaszek, and
+  Miltzow]{abrahamsen2022}
+Mikkel Abrahamsen, Anna Adamaszek, and Tillmann Miltzow.
+\newblock The art gallery problem is {$\exists\mathbb{R}$}-complete.
+\newblock \emph{Journal of the ACM}, 69\penalty0 (1):\penalty0 4:1--4:70, 2022.
+\newblock \href{https://doi.org/10.1145/3486220}{doi:10.1145/3486220}.
+
+\bibitem[Andersen et~al.(2012)Andersen, Flamm, Merkle, and
+  Stadler]{andersen2012}
+Jakob~L. Andersen, Christoph Flamm, Daniel Merkle, and Peter~F. Stadler.
+\newblock Maximizing output and recognizing autocatalysis in chemical reaction
+  networks is {NP}-complete.
+\newblock \emph{Journal of Systems Chemistry}, 3:\penalty0 1, 2012.
+\newblock
+  \href{https://doi.org/10.1186/1759-2208-3-1}{doi:10.1186/1759-2208-3-1}.
+
+\bibitem[Basu(2014)]{basu2014}
+Saugata Basu.
+\newblock Algorithms in real algebraic geometry: a survey.
+\newblock arXiv preprint arXiv:1409.1534 [math.AG], 2014.
+\newblock \href{https://arxiv.org/abs/1409.1534}{arXiv:1409.1534}.
+
+\bibitem[Beard et~al.(2004)Beard, Babson, Curtis, and Qian]{beard2004}
+Daniel~A. Beard, Eric Babson, Edward Curtis, and Hong Qian.
+\newblock Thermodynamic constraints for biochemical networks.
+\newblock \emph{Journal of Theoretical Biology}, 228\penalty0 (3):\penalty0
+  327--333, 2004.
+\newblock
+  \href{https://doi.org/10.1016/j.jtbi.2004.01.008}{doi:10.1016/j.jtbi.2004.01.008}.
+
+\bibitem[Blokhuis et~al.(2020)Blokhuis, Lacoste, and Nghe]{blokhuis2020}
+Alex Blokhuis, David Lacoste, and Philippe Nghe.
+\newblock Universal motifs and the diversity of autocatalytic systems.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 117\penalty0
+  (41):\penalty0 25230--25236, 2020.
+\newblock
+  \href{https://doi.org/10.1073/pnas.2013527117}{doi:10.1073/pnas.2013527117}.
+
+\bibitem[Blum et~al.(1989)Blum, Shub, and Smale]{bss1989}
+Lenore Blum, Mike Shub, and Steve Smale.
+\newblock On a theory of computation and complexity over the real numbers:
+  {NP}-completeness, recursive functions and universal machines.
+\newblock \emph{Bulletin of the American Mathematical Society}, 21\penalty0
+  (1):\penalty0 1--46, 1989.
+\newblock
+  \href{https://doi.org/10.1090/S0273-0979-1989-15750-9}{doi:10.1090/S0273-0979-1989-15750-9}.
+
+\bibitem[Canny(1988)]{canny1988}
+John Canny.
+\newblock Some algebraic and geometric computations in {PSPACE}.
+\newblock In \emph{Proceedings of the 20th Annual ACM Symposium on Theory of
+  Computing (STOC 1988)}, pages 460--469. ACM, 1988.
+\newblock \href{https://doi.org/10.1145/62212.62257}{doi:10.1145/62212.62257}.
+
+\bibitem[{Companion manuscript}(2026{\natexlab{a}})]{fpt2026}
+{Companion manuscript}.
+\newblock Exact common-activity compatibility of autocatalytic cores: finite
+  cycle acceleration, monotone elimination, and fixed-parameter tractability in
+  the longest path, 2026{\natexlab{a}}.
+\newblock Separate unpublished companion manuscript.
+
+\bibitem[{Companion manuscript}(2026{\natexlab{b}})]{jp2026}
+{Companion manuscript}.
+\newblock Exact common-activity compatibility for autocatalytic junction--path
+  assemblies: boundary reduction, a rational decision algorithm, and operating
+  certificates, 2026{\natexlab{b}}.
+\newblock Separate unpublished companion manuscript.
+
+\bibitem[{Companion manuscript}(2026{\natexlab{c}})]{pacnp2026}
+{Companion manuscript}.
+\newblock Unconstrained detection of productive autocatalytic cores is
+  {NP}-complete, 2026{\natexlab{c}}.
+\newblock Separate unpublished companion manuscript.
+
+\bibitem[{Companion manuscript}(2026{\natexlab{d}})]{tcch2026}
+{Companion manuscript}.
+\newblock Collective thermodynamic incompatibility of autocatalytic cores:
+  minimally incompatible families of unbounded order, 2026{\natexlab{d}}.
+\newblock Separate unpublished companion manuscript.
+
+\bibitem[{Companion manuscript}(2026{\natexlab{e}})]{tcic2026}
+{Companion manuscript}.
+\newblock Thermodynamic compatibility of interacting autocatalytic cores: an
+  exact phase diagram and a layered obstruction theory, 2026{\natexlab{e}}.
+\newblock Separate unpublished companion manuscript.
+
+\bibitem[de~Moura and Ullrich(2021)]{demoura2021}
+Leonardo de~Moura and Sebastian Ullrich.
+\newblock The {Lean} 4 theorem prover and programming language.
+\newblock In \emph{Automated Deduction -- CADE 28}, volume 12699 of
+  \emph{Lecture Notes in Computer Science}, pages 625--635. Springer, 2021.
+\newblock
+  \href{https://doi.org/10.1007/978-3-030-79876-5_37}{doi:10.1007/978-3-030-79876-5\_37}.
+
+\bibitem[Despons et~al.(2024)Despons, De~Decker, and Lacoste]{despons2024}
+Armand Despons, Yannick De~Decker, and David Lacoste.
+\newblock Structural constraints limit the regime of optimal flux in
+  autocatalytic reaction networks.
+\newblock \emph{Communications Physics}, 7:\penalty0 224, 2024.
+\newblock
+  \href{https://doi.org/10.1038/s42005-024-01704-8}{doi:10.1038/s42005-024-01704-8}.
+
+\bibitem[Gagrani et~al.(2024)Gagrani, Blanco, Smith, and Baum]{gagrani2024}
+Praful Gagrani, V{\'\i}ctor Blanco, Eric Smith, and David Baum.
+\newblock Polyhedral geometry and combinatorics of an autocatalytic ecosystem.
+\newblock \emph{Journal of Mathematical Chemistry}, 62:\penalty0 1012--1078,
+  2024.
+\newblock
+  \href{https://doi.org/10.1007/s10910-024-01576-x}{doi:10.1007/s10910-024-01576-x}.
+
+\bibitem[Garg et~al.(2018)Garg, Mehta, Vazirani, and Yazdanbod]{garg2018}
+Jugal Garg, Ruta Mehta, Vijay~V. Vazirani, and Sadra Yazdanbod.
+\newblock {$\exists\mathbb{R}$}-completeness for decision versions of
+  multi-player (symmetric) {N}ash equilibria.
+\newblock \emph{ACM Transactions on Economics and Computation}, 6\penalty0
+  (1):\penalty0 1:1--1:23, 2018.
+\newblock \href{https://doi.org/10.1145/3175494}{doi:10.1145/3175494}.
+
+\bibitem[Hordijk and Steel(2004)]{hordijk2004}
+Wim Hordijk and Mike Steel.
+\newblock Detecting autocatalytic, self-sustaining sets in chemical reaction
+  systems.
+\newblock \emph{Journal of Theoretical Biology}, 227\penalty0 (4):\penalty0
+  451--461, 2004.
+\newblock
+  \href{https://doi.org/10.1016/j.jtbi.2003.11.020}{doi:10.1016/j.jtbi.2003.11.020}.
+
+\bibitem[Kauffman(1986)]{kauffman1986}
+Stuart~A. Kauffman.
+\newblock Autocatalytic sets of proteins.
+\newblock \emph{Journal of Theoretical Biology}, 119\penalty0 (1):\penalty0
+  1--24, 1986.
+\newblock
+  \href{https://doi.org/10.1016/S0022-5193(86)80047-9}{doi:10.1016/S0022-5193(86)80047-9}.
+
+\bibitem[Khachiyan(1979)]{khachiyan1979}
+Leonid~G. Khachiyan.
+\newblock A polynomial algorithm in linear programming.
+\newblock \emph{Doklady Akademii Nauk SSSR}, 244\penalty0 (5):\penalty0
+  1093--1096, 1979.
+\newblock English translation: Soviet Mathematics Doklady 20 (1979), 191--194.
+
+\bibitem[Kosc et~al.(2025)Kosc, Kuperberg, Rajon, and Charlat]{kosc2025}
+Thomas Kosc, Denis Kuperberg, Etienne Rajon, and Sylvain Charlat.
+\newblock Thermodynamic consistency of autocatalytic cycles.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 122\penalty0
+  (18):\penalty0 e2421274122, 2025.
+\newblock
+  \href{https://doi.org/10.1073/pnas.2421274122}{doi:10.1073/pnas.2421274122}.
+
+\bibitem[Mn{\"e}v(1988)]{mnev1988}
+Nikolai~E. Mn{\"e}v.
+\newblock The universality theorems on the classification problem of
+  configuration varieties and convex polytopes varieties.
+\newblock In \emph{Topology and Geometry -- Rohlin Seminar}, volume 1346 of
+  \emph{Lecture Notes in Mathematics}, pages 527--543. Springer, 1988.
+\newblock \href{https://doi.org/10.1007/BFb0082792}{doi:10.1007/BFb0082792}.
+
+\bibitem[Noor et~al.(2014)Noor, Bar-Even, Flamholz, Reznik, Liebermeister, and
+  Milo]{noor2014}
+Elad Noor, Arren Bar-Even, Avi Flamholz, Ed~Reznik, Wolfram Liebermeister, and
+  Ron Milo.
+\newblock Pathway thermodynamics highlights kinetic obstacles in central
+  metabolism.
+\newblock \emph{PLoS Computational Biology}, 10\penalty0 (2):\penalty0
+  e1003483, 2014.
+\newblock
+  \href{https://doi.org/10.1371/journal.pcbi.1003483}{doi:10.1371/journal.pcbi.1003483}.
+
+\bibitem[Schaefer(2010)]{schaefer2009}
+Marcus Schaefer.
+\newblock Complexity of some geometric and topological problems.
+\newblock In \emph{Graph Drawing (GD 2009)}, volume 5849 of \emph{Lecture Notes
+  in Computer Science}, pages 334--344. Springer, 2010.
+\newblock
+  \href{https://doi.org/10.1007/978-3-642-11805-0_32}{doi:10.1007/978-3-642-11805-0\_32}.
+
+\bibitem[Schaefer and {\v{S}}tefankovi{\v{c}}(2017)]{schaefer2017}
+Marcus Schaefer and Daniel {\v{S}}tefankovi{\v{c}}.
+\newblock Fixed points, {N}ash equilibria, and the existential theory of the
+  reals.
+\newblock \emph{Theory of Computing Systems}, 60\penalty0 (2):\penalty0
+  172--193, 2017.
+\newblock
+  \href{https://doi.org/10.1007/s00224-015-9662-0}{doi:10.1007/s00224-015-9662-0}.
+
+\bibitem[Schaefer and {\v{S}}tefankovi{\v{c}}(2024)]{schaefer2024}
+Marcus Schaefer and Daniel {\v{S}}tefankovi{\v{c}}.
+\newblock Beyond the existential theory of the reals.
+\newblock \emph{Theory of Computing Systems}, 68:\penalty0 195--226, 2024.
+\newblock
+  \href{https://doi.org/10.1007/s00224-023-10151-x}{doi:10.1007/s00224-023-10151-x}.
+  We cite the numbering of the arXiv version
+  \href{https://arxiv.org/abs/2210.00571v6}{arXiv:2210.00571v6} (2025),
+  Propositions~2.6 and~2.12.
+
+\bibitem[Schaefer et~al.(2024)Schaefer, Cardinal, and Miltzow]{compendium2024}
+Marcus Schaefer, Jean Cardinal, and Tillmann Miltzow.
+\newblock The existential theory of the reals as a complexity class: a
+  compendium.
+\newblock arXiv preprint arXiv:2407.18006 [cs.CC], 2024.
+\newblock \href{https://arxiv.org/abs/2407.18006}{arXiv:2407.18006}.
+
+\bibitem[Schellenberger et~al.(2011)Schellenberger, Lewis, and
+  Palsson]{schellenberger2011}
+Jan Schellenberger, Nathan~E. Lewis, and Bernhard~{\O}. Palsson.
+\newblock Elimination of thermodynamically infeasible loops in steady-state
+  metabolic models.
+\newblock \emph{Biophysical Journal}, 100\penalty0 (3):\penalty0 544--553,
+  2011.
+\newblock
+  \href{https://doi.org/10.1016/j.bpj.2010.12.3707}{doi:10.1016/j.bpj.2010.12.3707}.
+
+\bibitem[Schrijver(1986)]{schrijver1986}
+Alexander Schrijver.
+\newblock \emph{Theory of Linear and Integer Programming}.
+\newblock John Wiley \& Sons, Chichester, 1986.
+
+\bibitem[Shor(1991)]{shor1991}
+Peter~W. Shor.
+\newblock Stretchability of pseudolines is {NP}-hard.
+\newblock In \emph{Applied Geometry and Discrete Mathematics: The Victor Klee
+  Festschrift}, volume~4 of \emph{DIMACS Series in Discrete Mathematics and
+  Theoretical Computer Science}, pages 531--554. American Mathematical Society,
+  1991.
+
+\bibitem[{The mathlib Community}(2020)]{mathlib2020}
+{The mathlib Community}.
+\newblock The {Lean} mathematical library.
+\newblock In \emph{Proceedings of the 9th ACM SIGPLAN International Conference
+  on Certified Programs and Proofs (CPP 2020)}, pages 367--381. ACM, 2020.
+\newblock
+  \href{https://doi.org/10.1145/3372885.3373824}{doi:10.1145/3372885.3373824}.
+
+\bibitem[Unterberger and Nghe(2022)]{unterberger2022}
+J{\'e}r{\'e}mie Unterberger and Philippe Nghe.
+\newblock Stoechiometric and dynamical autocatalysis for diluted chemical
+  reaction networks.
+\newblock \emph{Journal of Mathematical Biology}, 85:\penalty0 26, 2022.
+\newblock
+  \href{https://doi.org/10.1007/s00285-022-01791-x}{doi:10.1007/s00285-022-01791-x}.
+
+\end{thebibliography}

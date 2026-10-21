@@ -1,0 +1,13 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "JointThermoComplexity.Complexity.ChemicalCompleteness.boxed_complete",
+    "JointThermoComplexity.Complexity.ChemicalCompleteness.unboxed_complete"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

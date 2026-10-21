@@ -1,0 +1,40 @@
+{
+  "pdf_sha256": "070e42f71d4c6541ed1c6e8fee8cc7ac06bd5bd9242520d3ef02beb24a2756f7",
+  "source_sha256": "e38389075030e02859b60215a22b67f5e0c6314e577dee81e0790995b6b94d64",
+  "pages": 18,
+  "all_pages_visually_reviewed": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "render_dpi": 110,
+  "findings": "All final rendered pages inspected. No clipping, overlap, unreadable glyphs, broken tables or unresolved references observed.",
+  "blank_author_and_affiliation_preserved": true,
+  "exact_arithmetic_check": "PASS",
+  "final_build_exit_codes": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "overfull_boxes": false,
+  "unresolved_references": false,
+  "underfull_box_notices": "Five layout notices; corresponding pages visually inspected and accepted."
+}

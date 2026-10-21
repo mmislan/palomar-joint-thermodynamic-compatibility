@@ -1,0 +1,72 @@
+{
+  "checks": [
+    {
+      "module": "Challenge",
+      "source_sha256": "8c80ce5cedead7609987c1d1bcbe2d59f1261d73cb772323627697f7878d3c92",
+      "artifact_sha256": "ea12915288a716bed4e22c9f8313e4077b5fc8c998784cd630b461102f4dbe59",
+      "receipt_sha256": "2f5a505675a7bd6b7ecff9c941e884f3c1adfce347b0c0fad78fe46321bccdc3",
+      "log_sha256": "8a111c3341f5726abf19308965e0cf2b997c08697fe63df78f6f0cef7ad547e3",
+      "exit_code": 0,
+      "seconds": 10.468000000008033,
+      "source_unchanged": true,
+      "cleanup_verified": true,
+      "command": [
+        "lean",
+        "-M3072",
+        "-j1",
+        "-o",
+        ".lake/build/lib/lean/Challenge.olean",
+        "Challenge.lean"
+      ],
+      "command_note": "Portable spelling of the recorded pinned native invocation; private receipts retain exact resolved executable and working directory.",
+      "proof_evidence": "Independent statement elaboration with explicit permitted proof holes",
+      "axiom_readback": {}
+    },
+    {
+      "module": "Solution",
+      "source_sha256": "754d72d499cb115ed48f96be9248d6b59c963d5dc02b28993f951193329911f8",
+      "artifact_sha256": "6910fecc7d99280cc4f4472ab1d51ba7af7ed8ed3e5476bf6fffbc022bae2770",
+      "receipt_sha256": "06bb3ce640ca638e10b3022851527a75ad2c1ae6d68db3cf80c63864c3efe64f",
+      "log_sha256": "2e38bc710c005d38dbe4745b8dd87b39b67abfc67f9032edd8bdfa18c5b49e06",
+      "exit_code": 0,
+      "seconds": 21.125,
+      "source_unchanged": true,
+      "cleanup_verified": true,
+      "command": [
+        "lean",
+        "-DwarningAsError=true",
+        "-M8192",
+        "-j1",
+        "-o",
+        ".lake/build/lib/lean/Solution.olean",
+        "Solution.lean"
+      ],
+      "command_note": "Portable spelling of the recorded pinned native invocation; private receipts retain exact resolved executable and working directory.",
+      "proof_evidence": "Strict final wrapper/import and selected axiom readback",
+      "axiom_readback": {
+        "JointThermoComplexity.Complexity.ChemicalCompleteness.boxed_complete": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "JointThermoComplexity.Complexity.ChemicalCompleteness.unboxed_complete": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ]
+      }
+    }
+  ],
+  "lean_executable_sha256": "16e2c9c597d71fbbadd2b909c3fad5ea7830a4b7aa0123b93e0f3b19de7b959e",
+  "frozen_formal_inputs": {
+    "Challenge.lean": "8c80ce5cedead7609987c1d1bcbe2d59f1261d73cb772323627697f7878d3c92",
+    "Solution.lean": "754d72d499cb115ed48f96be9248d6b59c963d5dc02b28993f951193329911f8",
+    "comparator.json": "6f6943ee845b99856a1a305a721d4f8cb313a2a008561d28dc68cd74724b85f4",
+    "lean-toolchain": "f4085f5f49cb07b752ed5b171651770205bbbb73ea5445f0e14db04264e8506c",
+    "lakefile.toml": "04a22f222d448c190849131b682fb3252b8a9c4c0a7ff8ea24f6cd11ef78d9a1",
+    "lake-manifest.json": "b02644064f37c2f33596116858e43dfe48cb80364daf19c15dbbc28f402b8edd"
+  },
+  "all_proof_sources_rebuilt_for_release": false,
+  "Comparator": "not run",
+  "external_kernel_replays": "not run"
+}

@@ -1,0 +1,7 @@
+Joint thermodynamic compatibility of two autocatalytic cores is existential-real complete
+Original material copyright 2026 Michael Mislan, licensed under Apache-2.0.
+
+Includes an adapted dependency closure from Samuel Schlesinger's Complexitylib,
+commit 43d4bb1a30bd93846eab5480bec8a37113586109, licensed under Apache-2.0.
+Its original notices and license remain in proofs/Complexitylib/.
+See THIRD_PARTY_NOTICES.md for dependency and literature attribution.
