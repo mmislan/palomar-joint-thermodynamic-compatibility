@@ -67,8 +67,8 @@
     },
     {
       "path": "formalization.yaml",
-      "sha256": "ce0f146824c2519ecb3ea4ea7921d7a01c8f350b0ab0bb405db266e52c41d102",
-      "bytes": 6002
+      "sha256": "5e9610df903b0689a4322680f582ce274fe2137c4b1c59bcb87bb9d49056603e",
+      "bytes": 6006
     },
     {
       "path": "lake-manifest.json",
